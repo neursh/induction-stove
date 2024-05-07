@@ -14,6 +14,7 @@ Why not. Imagine built yourself an induction stove, that's very cool and fun to 
 - Can also be extended with a Wi-fi module to make it a smart induction stove, who's gonna stop you?
 - Child lock, disable all inputs.
 - Detect multiple invalid inputs and stop listening for inputs until normal again.
+- Yada yada, if you don't like some features, just remove it, or adjust it, or add something else,... this is YOUR induction stove.
 
 ## That's a lot
 I know, this is one of my thoughts when I'm about to sleep at 12.
