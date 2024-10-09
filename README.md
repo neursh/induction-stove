@@ -1,5 +1,5 @@
 # Induction Stove
-Arduino based induction stove system with many features and highly customizable.
+Raspberry Pi based induction stove system with many features and highly customizable.
 
 ## Why??
 Why not. Imagine built yourself an induction stove, that's very cool and fun to do.
